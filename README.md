@@ -1,2 +1,1 @@
-# dynamicpro-website
- yes, a website
+# Dynamic Pro
